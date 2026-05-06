@@ -80,7 +80,8 @@ The system relies on a local SQL Server database (`Kasir`). The core table is `T
 
 ## 📸 Interface Preview
 
-*(Upload screenshot aplikasi di repository ini, lalu ubah path link gambar di bawah ini)*
+<img width="948" height="717" alt="image" src="https://github.com/user-attachments/assets/5190da30-ed13-4aa8-b735-5db42829a86d" />
+
 <div align="center">
   <img src="https://via.placeholder.com/800x450/0b1120/4ade80?text=Insert+Application+Screenshot+Here" alt="App Screenshot" width="800"/>
 </div>
