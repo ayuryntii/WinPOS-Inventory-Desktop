@@ -11,16 +11,6 @@
 
 <br />
 
-## 📜 Repository Information
-
-**Repository Name:** `WinPOS-Inventory-Desktop`
-
-**About / Description:** 
-> A professional Windows Desktop Point of Sale (POS) and Inventory Management system built with C# and WinForms. Features complete database CRUD operations, real-time inventory tracking, and seamless SQL Server integration.
-
-**Topics (Tags):**
-`csharp`, `dotnet`, `winforms`, `desktop-application`, `point-of-sale`, `inventory-management`, `sql-server`, `ado-net`, `crud-operations`, `database-management`
-
 ---
 
 ## ⚡ Key Features
