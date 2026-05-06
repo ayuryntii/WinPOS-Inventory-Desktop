@@ -1,0 +1,17 @@
+# Visual Studio temporary files, build results, and user-specific files
+.vs/
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# SQL Server Database files (LocalDB)
+*.mdf
+*.ldf
+*.ndf
